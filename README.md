@@ -7,8 +7,8 @@ The script:
 
 * Generates a random population (of size 20).
 * Generates all possible samples (of size 5).
-* For each sample, calculate the standard deviation using denominator _n_ and denominator _n - 1_.
-* Show each distribution with the actual population standard deviation marked.
+* For each sample, calculates the standard deviation using denominator _n_ and denominator _n - 1_.
+* Shows each distribution with the actual population standard deviation marked.
 
 
 ## Example output
